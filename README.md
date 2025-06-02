@@ -1,16 +1,15 @@
-## Hi there 👋
+📍 Estagiário em Dev na Bright Consulting  
+📚 Estudante de Análise e Desenvolvimento de Sistemas  
+⚙️ Foco em Python, Dash, Web e Dados  
 
-<!--
-**GabrielBright/GabrielBright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologias:
+- Python, Pandas, Plotly, Dash
+- Webscraping com Playwright e Selenium
+- Automação de processos com APIs
 
-Here are some ideas to get you started:
+Repositórios em destaque:
+- [scraping](https://github.com/GabrielBright/scraping): Scripts de automação e coleta de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contato:
+- Email: gabriel.v@brightisd.com
+- LinkedIn: [in/gabriel-souza-6750652a1](https://www.linkedin.com/in/gabriel-souza-6750652a1/)

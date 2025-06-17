@@ -31,8 +31,6 @@
 
 ### 📌 Repositórios em Destaque
 
-### 📌 Repositórios em Destaque
-
 - [`scraping`](https://github.com/GabrielBright/scraping): Scripts de automação e coleta de dados com **Playwright** e **Python**.  
 - [`Scraping_Fiep`](https://github.com/GabrielBright/Scraping_Fiep): Script em **Python** para coleta de dados da **Tabela FIPE**, com navegação automatizada por Marca, Modelo e Ano, e exportação estruturada em **Excel**.  
 - [`DashBoard-Producao-Vendas`](https://github.com/GabrielBright/DashBoard-Producao-Vendas): Dashboard interativo com **Dash + Plotly**, que analisa estatísticas de produção e vendas de veículos com base nos dados oficiais da **ANFAVEA** entre 2023 e 2025.

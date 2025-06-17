@@ -6,12 +6,6 @@
 
 ---
 
-### 🌍 Sobre Mim
-
-Sou estudante de Análise e Desenvolvimento de Sistemas na UNINTER, apaixonado por desenvolvimento web, automação e análise de dados. Atualmente, atuo como estagiário na **Bright Consulting**, onde desenvolvo soluções de automação com **Python** e **Playwright**, além de criar dashboards interativos com **Dash** e **Plotly** para monitoramento de produção e vendas no setor automotivo. Tenho experiência em projetos de scraping, construção de dashboards e e-commerce, com conhecimentos sólidos em **HTML**, **CSS**, **JavaScript**, **PHP**, **MySQL** e **Java**.
-
----
-
 ### 🚀 Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -32,33 +26,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UNINTER, apaixonado p
 - ⚙️ **Automação**: Criação de scripts em **Python** para otimização de processos manuais e integração com **APIs**.
 - 📂 **Análise de Dados**: Manipulação e análise com **Pandas**, **Excel**, **CSV** e **JSON**.
 - 📈 **Relatórios Automatizados**: Geração de relatórios para suporte à tomada de decisão no setor automotivo.
-
----
-
-### 💼 Experiência
-
-**Bright Consulting**  
-*Estagiário em Desenvolvimento*  
-*Janeiro de 2025 - Presente (6 meses)*  
-- Desenvolvimento de scripts de **web scraping** com **Playwright** para coleta automatizada de dados em sites automotivos e institucionais.  
-- Criação de **dashboards interativos** com **Dash** e **Plotly**, consolidando dados de produção e vendas de veículos.  
-- Suporte na análise de dados, geração de indicadores e relatórios automatizados com **Python** e **Excel**.  
-- Automação de processos manuais, reduzindo retrabalho e aumentando a eficiência operacional.  
-
----
-
-### 🎓 Formação Acadêmica
-
-**UNINTER Centro Universitário Internacional**  
-*Análise e Desenvolvimento de Sistemas*  
-*Fevereiro de 2024 - Agosto de 2026 (previsão de conclusão)*  
-
----
-
-### 🌐 Idiomas
-
-- 🇬🇧 **Inglês**: Proficiência profissional  
-- 🇪🇸 **Espanhol**: Proficiência total  
 
 ---
 

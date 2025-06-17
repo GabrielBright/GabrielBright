@@ -73,7 +73,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UNINTER, apaixonado p
 
 - ✉️ [souzagabrielvini@gmail.com](mailto:souzagabrielvini@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-souza-6750652a1)  
-- 🌐 [GitHub](https://github.com/GabrielBright)  
 - 📱 (19) 99181-8779  
 
 ---

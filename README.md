@@ -32,7 +32,7 @@
 ### 📌 Repositórios em Destaque
 
 - [`scraping`](https://github.com/GabrielBright/scraping): Scripts de automação e coleta de dados com **Playwright** e **Python**.  
-- *Em breve: mais projetos de dashboards e automação!*
+- 
 
 ---
 

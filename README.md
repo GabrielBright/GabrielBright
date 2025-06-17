@@ -32,15 +32,7 @@
 ### 📌 Repositórios em Destaque
 
 - [`scraping`](https://github.com/GabrielBright/scraping): Scripts de automação e coleta de dados com **Playwright** e **Python**.  
-- [![FIPE Scraping](https://github.com/GabrielBright/Scraping_Fiep/raw/main/a18a8673-22e2-473b-a2e2-2bb618e23472.png)](https://github.com/GabrielBright/Scraping_Fiep)
-
-🔎 Script avançado em **Python + Playwright** para automação da coleta de dados da **Tabela FIPE**, incluindo Marca, Modelo, Ano, Código FIPE e Preço Médio.
-
-**Funcionalidades:**
-- Seleção dinâmica via teclado para evitar falhas em dropdowns.
-- Navegação robusta por Marca, Modelo e Ano com fallback para inconsistências.
-- Extração estruturada e exportação para **Excel (.xlsx)**.
-- Log detalhado de progresso e erros para debugging eficiente.
+- [`Scraping_Fiep`](https://github.com/GabrielBright/Scraping_Fiep): Coleta automatizada da **Tabela FIPE** com extração de Marca, Modelo, Ano, Código FIPE e Preço Médio via **Playwright** e **Pandas**.
 
 ---
 
